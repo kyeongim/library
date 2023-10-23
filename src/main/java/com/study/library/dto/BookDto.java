@@ -9,4 +9,5 @@ public class BookDto {
 
     private String bookSerial;
     private String isbn;
+    private String bookTitle;
 }
